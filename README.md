@@ -1,6 +1,7 @@
-## newt-blog-nuxtjs
+## Blog using [newt](https://www.newt.so/) and nextjs
 
-refer to: https://github.com/Newt-Inc/newt-blog-starter-nextjs
+refer to:
+ - https://github.com/Newt-Inc/newt-blog-starter-nextjs
 
 ### Step1: Newtスペースをセットアップ
 
